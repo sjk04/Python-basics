@@ -15,6 +15,9 @@ The notebook `pythonbasics.ipynb` includes:
 - ✅ Functions,classes 
 - ✅ Started with object oriented programming in python
 
+- along with it started the dsa using python
+  
+
 ---
 
 ## 🧰 How to Run
