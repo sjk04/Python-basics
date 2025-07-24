@@ -1,4 +1,4 @@
-# Python Basics 🐍
+# Python Basics and DSA 🐍
 
 This repository contains a beginner-friendly Jupyter Notebook that introduces the fundamentals of Python programming. It is ideal for those who are just starting their journey in coding and want to get familiar with basic Python syntax and operations.
 
@@ -16,6 +16,7 @@ The notebook `pythonbasics.ipynb` includes:
 - ✅ Started with object oriented programming in python
 
 - along with it started the dsa using python
+-******** do check if any question in leetcode if yes do the leetcode that way you'll get to know the output and input requirements rather than simply providing raw input and solving in jupyter notebook*********
   
 
 ---
